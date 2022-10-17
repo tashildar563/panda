@@ -3,8 +3,6 @@
 
 A pet foundation website
 
-cb
-
 
 
 
